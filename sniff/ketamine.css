@@ -42,7 +42,15 @@ p.name {
   z-index: 1;
   position: absolute;
   top: 80px; 
-  left: 230px;
+  left: 220px;
+}
+
+hr.spacer {
+  color:#5CF4FE;
+  width: 5px;
+  position: absolute;
+  top: 87px; 
+  left: 220px;
 }
 
 p.info {
@@ -52,7 +60,7 @@ p.info {
   z-index: 1;
   position: absolute;
   top: 180px; 
-  left: 340px;
+  left: 325px;
 }
 
 span.sr {
