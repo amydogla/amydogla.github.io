@@ -36,6 +36,7 @@ div {
 }
   
 p.name {
+  color: #5CF4FE;
   font-family: Bebas Neue;
   font-size: 55px;
   margin-bottom: -15;
@@ -46,16 +47,16 @@ p.name {
   text-shadow: rgba(92, 244, 254, 0.2) -3px 3px 1px;
 }
 div.spacer {
-  width: 999rem;
+  width: 350px;
   position: absolute;
-  top: 210px; 
+  top: 370px; 
   left: -5px;
   z-index: 1;
 }
 
 hr.spacer {
   background-color: #5CF4FE;
-  height: 5px;
+  height: 60px;
 }
 
 p.info {
