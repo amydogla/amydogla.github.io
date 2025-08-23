@@ -44,13 +44,16 @@ p.name {
   top: 80px; 
   left: 220px;
 }
-
-hr.spacer {
-  color:#5CF4FE;
-  width: 5px;
+div.spacer {
+  width: 30px;
   position: absolute;
   top: 87px; 
   left: 220px;
+}
+
+hr.spacer {
+  color: #5CF4FE;
+  height: 5px;
 }
 
 p.info {
