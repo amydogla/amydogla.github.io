@@ -50,10 +50,10 @@ p.name {
   left: 220px;
 }
 div.spacer {
-  width: 300px;
+  width: 999rem;
   position: absolute;
   top: 87px; 
-  left: 220px;
+  left: -5px;
   z-index -3;
 }
 
