@@ -60,7 +60,7 @@ div.spacer {
 hr.spacer {
   background-color: #5CF4FE;
   height: 5px;
-  float: inherit;
+  float: left;
 }
 
 p.info {
