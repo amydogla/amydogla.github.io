@@ -59,7 +59,7 @@ div.spacer {
 hr.spacer {
   background-color: #5CF4FE;
   height: 5px;
-  z-index -3;
+  z-index -3333;
 }
 
 p.info {
