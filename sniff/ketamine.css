@@ -28,7 +28,6 @@ img {
 }
 
 div {
-  color: #5CF4FE;
   text-align: center;
 }
 
@@ -66,7 +65,7 @@ p.info {
   z-index: 3;
   position: absolute;
   top: 180px; 
-  left: 240px;
+  left: 230px;
   text-shadow: rgba(0, 0, 0, 1) 0px 0px 1px;
 }
 
