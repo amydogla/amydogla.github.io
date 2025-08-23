@@ -54,12 +54,12 @@ div.spacer {
   position: absolute;
   top: 87px; 
   left: -5px;
+  z-index -3333;
 }
 
 hr.spacer {
   background-color: #5CF4FE;
   height: 5px;
-  z-index -3333;
 }
 
 p.info {
