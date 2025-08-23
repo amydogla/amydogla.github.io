@@ -28,6 +28,7 @@ img {
 div {
   color: #5CF4FE;
   text-align: center;
+  text-shadow: black -3px 3px;
 }
 
 .bigframe {
