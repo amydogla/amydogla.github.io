@@ -50,7 +50,7 @@ div.spacer {
   position: absolute;
   top: 87px; 
   right: 220px;
-  float: none;
+  float: right;
 }
 
 hr.spacer {
