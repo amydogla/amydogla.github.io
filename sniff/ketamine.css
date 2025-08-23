@@ -20,17 +20,16 @@ div.peepee {
   position: absolute;
   top: 20px;
   right: -20px;
+  z-index: -1;
 }
 
 img {
   width: 400px;
-  z-index: -1;
 }
 
 div {
   color: #5CF4FE;
   text-align: center;
-  position: relative;
 }
 
 .bigframe {
