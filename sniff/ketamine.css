@@ -37,7 +37,7 @@ div {
 }
 
 p {
-  text-shadow: rgba(92, 244, 254, 0.1) -3px 3px 6px;
+  text-shadow: rgba(92, 244, 254, 0.2) -3px 3px 1px;
 }
   
 p.name {
@@ -54,12 +54,12 @@ div.spacer {
   position: absolute;
   top: 87px; 
   left: -5px;
-  z-index 3;
 }
 
 hr.spacer {
   background-color: #5CF4FE;
   height: 5px;
+  z-index -3;
 }
 
 p.info {
