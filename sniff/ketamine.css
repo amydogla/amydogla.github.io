@@ -49,7 +49,7 @@ p.name {
 div.spacer {
   width: 999rem;
   position: absolute;
-  top: 140px; 
+  top: 240px; 
   left: -5px;
   z-index 1;
 }
