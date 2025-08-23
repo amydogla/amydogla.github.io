@@ -22,7 +22,7 @@ img {
   z-index: -1;
   position: absolute;
   top: 10px; 
-  left: 80px;
+  left: 20px;
 }
 
 div {
@@ -45,7 +45,7 @@ p.name {
   z-index: 1;
   position: absolute;
   top: 80px; 
-  left: 260px;
+  left: 230px;
 }
 
 p.info {
@@ -55,7 +55,7 @@ p.info {
   z-index: 1;
   position: absolute;
   top: 180px; 
-  left: 350px;
+  left: 340px;
 }
 
 span.sr {
