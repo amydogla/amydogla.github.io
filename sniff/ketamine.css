@@ -53,8 +53,8 @@ div.spacer {
   width: 300px;
   position: absolute;
   top: 87px; 
-  right: 220px;
-  z-index -2;
+  left: 220px;
+  z-index -3;
 }
 
 hr.spacer {
