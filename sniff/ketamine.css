@@ -25,6 +25,7 @@ img {
 div {
   color: #5CF4FE;
   text-align: center;
+  position: relative;
 }
 
 .bigframe {
