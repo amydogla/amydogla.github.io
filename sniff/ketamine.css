@@ -28,13 +28,16 @@ img {
 div {
   color: #5CF4FE;
   text-align: center;
-  text-shadow: white -3px 3px;
 }
 
 .bigframe {
   margin-top: 90px;
 }
 
+p {
+  text-shadow: white -3px 3px;
+}
+  
 p.name {
   font-family: Bebas Neue;
   font-size: 55px;
