@@ -16,10 +16,13 @@ body {
 }
 
 
-img {
+div.peepee {
   position: absolute;
   top: 20px;
   right: -20px;
+}
+
+img {
   width: 400px;
   z-index: -1;
 }
